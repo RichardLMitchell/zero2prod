@@ -1,0 +1,8 @@
+#Ignore .vscode folder     
+.vscode/    
+
+#Ignore compiled binaries     
+target/    
+
+#Ignore Cargo.lock file    
+Cargo.lock 

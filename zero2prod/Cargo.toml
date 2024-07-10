@@ -4,3 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+# llvm = "0.0.1"
+cargo-watch = "8.5.2"
+# tarpaulin = "0.1.0"
+clippy = "0.0.302"
+fmt = "0.1.0"
+cargo-audit = "0.20.0"
+
+
